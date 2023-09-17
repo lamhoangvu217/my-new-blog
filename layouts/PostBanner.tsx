@@ -28,13 +28,13 @@ export default function PostMinimal({ content, next, prev, children }: LayoutPro
       <article>
         <div>
           <div className="space-y-1 pb-10 text-center dark:border-gray-700">
-            <div className="w-full">
+            {/* <div className="w-full">
               <Bleed>
-                <div className="aspect-[2/1] w-full relative">
-                  <Image src={displayImage} alt={title} fill className="object-cover" />
+                <div className="aspect-[2/1] w-full relative ">
+                  <Image src={displayImage} alt={title} fill className="object-cover rounded-3xl" />
                 </div>
               </Bleed>
-            </div>
+            </div> */}
             <div className="pt-10 relative">
               <PageTitle>{title}</PageTitle>
             </div>
