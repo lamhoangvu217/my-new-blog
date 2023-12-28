@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Dev Vux Land',
   author: 'Vũ Hoàng Lâm',
   headerTitle: 'LamVuHoang',
-  description: 'Nơi mình tản mạn về cuộc sống',
+  description: 'The place where I ramble about life.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
